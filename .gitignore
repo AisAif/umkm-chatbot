@@ -39,3 +39,7 @@ build/
 *.whl
 pip-log.txt
 pip-delete-this-directory.txt
+
+.rasa/
+.config/
+.keras/
