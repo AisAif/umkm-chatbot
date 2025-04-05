@@ -43,3 +43,5 @@ pip-delete-this-directory.txt
 .rasa/
 .config/
 .keras/
+
+endpoints.yml
